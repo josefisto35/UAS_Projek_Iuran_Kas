@@ -52,6 +52,6 @@
 
 # Iuran Kas (Ganjil)
 
-Link Hosting (Website) : 
+Link Hosting (Website) : http://uasjose.rf.gd/
 
-Link Demonstrasi       : http://uasjose.rf.gd/
+Link Demonstrasi       : 
